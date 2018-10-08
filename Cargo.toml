@@ -1,5 +1,5 @@
 [package]
-name = "lied-rs"
+name = "lied"
 version = "0.1.0"
 authors = ["condy"]
 
